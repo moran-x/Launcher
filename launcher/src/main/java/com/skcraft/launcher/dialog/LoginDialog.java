@@ -18,7 +18,6 @@ import com.skcraft.launcher.swing.*;
 import com.skcraft.launcher.persistence.Persistence;
 import com.skcraft.launcher.util.SharedLocale;
 import com.skcraft.launcher.util.SwingExecutor;
-import com.sun.corba.se.spi.ior.IORFactories;
 import lombok.Getter;
 import lombok.NonNull;
 import lombok.Setter;
